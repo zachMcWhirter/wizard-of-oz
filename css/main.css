@@ -40,6 +40,17 @@ h1 {
     background-color: #FAEBD7;
 }
 
+.flex-item {
+    background-color: hotpink;
+    flex: 1;
+    margin: 1em;
+}
+
+.section-item {
+    margin: 0 auto;
+    width: 100%;
+}
+
 main {
     flex: 3;
     margin: 1em;
